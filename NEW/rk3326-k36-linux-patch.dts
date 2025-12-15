@@ -3646,8 +3646,6 @@
 		poll-interval = <0x0a>;
 		invert-absx;
 		invert-absy;
-		invert-absrx;
-		invert-absry;
 		phandle = <0x152>;
 
 		sw1 {
